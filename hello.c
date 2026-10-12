@@ -4,4 +4,5 @@ int main() {
    printf("new changes");
    printf("this is my work");
    printf("this is my new commit");
+   text
 }
