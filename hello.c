@@ -5,4 +5,5 @@ int main() {
 
    /* new work*/
    printf("new feature");
+   printf("one more new feature");
 }
